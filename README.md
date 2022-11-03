@@ -9,9 +9,9 @@ No site contém todos os meus projetos de vídeos, logos, minhas habilidades (ta
 
 Espero que gostem ❤!
 
-<h1>🌻Para Computador🌻</h1>
+<h2>🌻Para Computador🌻</h2>
 <img src="https://user-images.githubusercontent.com/99284224/197839956-f729a453-06ed-4c57-8664-f1a76d8d4a5d.png">
 
-<h1>🌻Para Celular🌻</h1>
+<h2>🌻Para Celular🌻</h2>
 <img src="https://user-images.githubusercontent.com/99284224/199635010-2bf7d294-8a54-4126-b8ae-8f2b614d7689.png" width="300px">
 <a href="">Acessar o Site</a>
