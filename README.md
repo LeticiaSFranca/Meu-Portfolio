@@ -19,11 +19,11 @@ Espero que gostem ❤!
 <img src="https://user-images.githubusercontent.com/99284224/199634881-59881b44-f90c-4d2a-9b4b-568408fb5af0.png">
 
 <h1>🌻Para Celular🌻</h1>
-<img src="https://user-images.githubusercontent.com/99284224/199635010-2bf7d294-8a54-4126-b8ae-8f2b614d7689.png">
-<img src="https://user-images.githubusercontent.com/99284224/199635068-05f5e721-a963-4a96-a5fb-4734622d30ee.png">
-<img src="https://user-images.githubusercontent.com/99284224/199635093-e5bdde24-2334-4a4c-9bf9-1ea7ceb6b6d4.png">
-<img src="https://user-images.githubusercontent.com/99284224/199635119-14791253-fc94-4737-802c-ba1b05071c7d.png">
-<img src="https://user-images.githubusercontent.com/99284224/199635142-c584fd7b-ccc1-44ce-bf70-e07632f47767.png">
-<img src="https://user-images.githubusercontent.com/99284224/199635168-43a2eae9-3e8a-465e-8698-1c234210928b.png">
+<img src="https://user-images.githubusercontent.com/99284224/199635010-2bf7d294-8a54-4126-b8ae-8f2b614d7689.png" width="100px">
+<img src="https://user-images.githubusercontent.com/99284224/199635068-05f5e721-a963-4a96-a5fb-4734622d30ee.png" width="100px">
+<img src="https://user-images.githubusercontent.com/99284224/199635093-e5bdde24-2334-4a4c-9bf9-1ea7ceb6b6d4.png" width="100px">
+<img src="https://user-images.githubusercontent.com/99284224/199635119-14791253-fc94-4737-802c-ba1b05071c7d.png" width="100px">
+<img src="https://user-images.githubusercontent.com/99284224/199635142-c584fd7b-ccc1-44ce-bf70-e07632f47767.png" width="100px">
+<img src="https://user-images.githubusercontent.com/99284224/199635168-43a2eae9-3e8a-465e-8698-1c234210928b.png" width="100px">
 
 <a href="">Acessar o Site</a>
