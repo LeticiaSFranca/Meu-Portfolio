@@ -1,4 +1,4 @@
-<h1><b>🌻Bem-Vindo(a) ao Meu Portfolio🌻</b></h1>
+<h1><b>🌻Bem-Vindo(a) ao Meu Portfólio🌻</b></h1>
 
 Linguagens usadas na construção do site:
 <ul>
